@@ -6,7 +6,6 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/GuiAnacleto/DiscordDiceRoller?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/GuiAnacleto/DiscordDiceRoller?style=for-the-badge)
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/GuiAnacleto/DiscordDiceRoller?style=for-the-badge)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/GuiAnacleto/DiscordDiceRoller?style=for-the-badgeGuiAnacleto/DiscordDiceRoller?style=for-the-badge)
 
 <img src="https://raw.githubusercontent.com/GuiAnacleto/DiscordDiceRoller/main/README/Capa.png" alt="Canva Discord Dice Roller">
 
@@ -53,7 +52,7 @@ Type "!help" in discord chat to receive the list of commands the bot currently h
 
 ## 🤝 Collaborators
 
-Agradecemos às seguintes pessoas que contribuíram para este projeto:
+We thank the following people who contributed to this project:
 
 <table>
   <tr>
