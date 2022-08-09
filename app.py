@@ -242,7 +242,7 @@ async def s(ctx, r: str):
 #Fim Sessão Rolagens Privadas============================================================================================================ 
 
 try:
-	#bot.run(decrypt(b'gAAAAABhgauX3kDylPw79EHVyxQR4ZetxGCA3-aow5SmeMlKufam8xvvoxspciJeVTmHIQebip0nwd2fQNpstcqDBEm5VgbDHx093A6gKpBEiM_fbR0mgIHUUGr_WkHCKDqZyD6K4o0vUIa8PsPCcMPpblgp7P9t5A==').decode("utf-8"))
-	bot.run('OTA0ODUzMjQ0NTEyMTk0Njcw.GYEe7P.XrOq7Y-BrEOTwsOk_3wk-PAMNsls1CYJ2ttCvU')
+	bot.run(decrypt(b'gAAAAABi8pxDlcKGXuu_NL9_iDHnHQR3xyq-7zQ7uJtyAnsGyoXff9sQZbVfx1Wjlci_lR0KatCy99uhcpe4zW0iMh7VGO3VmQ-DnIqK_xBY1zdxrP9fG3P0iDsRewXgpSNHN_5oKlfYuJ-Mq8SCzLbV47WIDfex9egnfx67Vv5W_MZbftT3D5E=').decode("utf-8"))
+	#bot.run('OTA0ODUzMjQ0NTEyMTk0Njcw.GYEe7P.XrOq7Y-BrEOTwsOk_3wk-PAMNsls1CYJ2ttCvU')
 except Exception as e:
 	print(f"LOG - Command(run): Erro ao iniciar o sistema({e})")
