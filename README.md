@@ -35,27 +35,21 @@ Before starting, make sure you've met the following requirements:
 
 To install <DiscordDiceRoller>, follow this steps:
 
-Linux e macOS:
-
 ```
-<comando_de_instalação>
+<PinguPutoDice#0971>
 ```
 
-Windows:
-
-```
-<comando_de_instalação>
-```
+Click To Invite a new person to your server and enter the address above.
 
 ## ☕ Using <DiscordDiceRoller>
 
 Para usar <DiscordDiceRoller>, siga estas etapas:
 
 ```
-<exemplo_de_uso>
+<!help>
 ```
 
-Adicione comandos de execução e exemplos que você acha que os usuários acharão úteis. Fornece uma referência de opções para pontos de bônus!
+Type "!help" in discord chat to receive the list of commands the bot currently has available.
 
 ## 🤝 Collaborators
 
@@ -73,9 +67,5 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
     </td>
   </tr>
 </table>
-
-## 📝 Licença
-
-Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
 
 [⬆ Voltar ao topo](#DiscordDiceRoller)<br>
