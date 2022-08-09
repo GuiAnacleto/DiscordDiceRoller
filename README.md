@@ -8,33 +8,32 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
 
-<img src="exemplo-image.png" alt="Canva Discord Dice Roller">
+<img src="https://raw.githubusercontent.com/GuiAnacleto/DiscordDiceRoller/main/README/Capa.png" alt="Canva Discord Dice Roller">
 
-> Linha adicional de texto informativo sobre o que o projeto faz. Sua introdução deve ter cerca de 2 ou 3 linhas. Não exagere, as pessoas não vão ler.
+> This project contains a discord bot that is capable of generating random numbers simulating a real rpg data, in it you will find some functions such as choosing the data size, amount of data and even if you want the result to be made available in your private chat .
 
-### Ajustes e melhorias
+### Adjustments and improvements
 
-O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
+The project is still under development and the next updates will focus on the following tasks:
 
-- [x] Tarefa 1
-- [x] Tarefa 2
-- [x] Tarefa 3
-- [ ] Tarefa 4
-- [ ] Tarefa 5
+- [x] Integrate Code with Discord API.
+- [x] Scroll Response Module in private.
+- [x] Image Upload Module Along with the dice roll (just for fun).
+- [ ] Clear Code.
+- [ ] Adjust object orientation.
 
-## 💻 Pré-requisitos
+## 💻 Prerequisites
 
-Antes de começar, verifique se você atendeu aos seguintes requisitos:
+Before starting, make sure you've met the following requirements:
 
 <!---Estes são apenas requisitos de exemplo. Adicionar, duplicar ou remover conforme necessário--->
 
-- Você instalou a versão mais recente de `<linguagem / dependência / requeridos>`
-- Você tem uma máquina `<Windows / Linux / Mac>`. Indique qual sistema operacional é compatível / não compatível.
-- Você leu `<guia / link / documentação_relacionada_ao_projeto>`.
+- Have you installed the latest version of `<Python3>`?.
+- Do you have a machine `<Windows / Linux / Mac>`?.
 
-## 🚀 Instalando <nome_do_projeto>
+## 🚀 Installing <DiscordDiceRoller>
 
-Para instalar o <nome_do_projeto>, siga estas etapas:
+To install <DiscordDiceRoller>, follow this steps:
 
 Linux e macOS:
 
@@ -48,9 +47,9 @@ Windows:
 <comando_de_instalação>
 ```
 
-## ☕ Usando <nome_do_projeto>
+## ☕ Using <DiscordDiceRoller>
 
-Para usar <nome_do_projeto>, siga estas etapas:
+Para usar <DiscordDiceRoller>, siga estas etapas:
 
 ```
 <exemplo_de_uso>
@@ -58,21 +57,7 @@ Para usar <nome_do_projeto>, siga estas etapas:
 
 Adicione comandos de execução e exemplos que você acha que os usuários acharão úteis. Fornece uma referência de opções para pontos de bônus!
 
-## 📫 Contribuindo para <nome_do_projeto>
-
-<!---Se o seu README for longo ou se você tiver algum processo ou etapas específicas que deseja que os contribuidores sigam, considere a criação de um arquivo CONTRIBUTING.md separado--->
-
-Para contribuir com <nome_do_projeto>, siga estas etapas:
-
-1. Bifurque este repositório.
-2. Crie um branch: `git checkout -b <nome_branch>`.
-3. Faça suas alterações e confirme-as: `git commit -m '<mensagem_commit>'`
-4. Envie para o branch original: `git push origin <nome_do_projeto> / <local>`
-5. Crie a solicitação de pull.
-
-Como alternativa, consulte a documentação do GitHub em [como criar uma solicitação pull](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
-
-## 🤝 Colaboradores
+## 🤝 Collaborators
 
 Agradecemos às seguintes pessoas que contribuíram para este projeto:
 
@@ -80,37 +65,17 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   <tr>
     <td align="center">+
       <a href="#">
-        <img src="https://avatars3.githubusercontent.com/u/31936044" width="100px;" alt="Foto do Iuri Silva no GitHub"/><br>
+        <img src="https://avatars.githubusercontent.com/u/30503293" width="100px;" alt="Foto do Guilherme Anacleto no GitHub"/><br>
         <sub>
-          <b>Iuri Silva</b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="#">
-        <img src="https://s2.glbimg.com/FUcw2usZfSTL6yCCGj3L3v3SpJ8=/smart/e.glbimg.com/og/ed/f/original/2019/04/25/zuckerberg_podcast.jpg" width="100px;" alt="Foto do Mark Zuckerberg"/><br>
-        <sub>
-          <b>Mark Zuckerberg</b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="#">
-        <img src="https://miro.medium.com/max/360/0*1SkS3mSorArvY9kS.jpg" width="100px;" alt="Foto do Steve Jobs"/><br>
-        <sub>
-          <b>Steve Jobs</b>
+          <b>Guilherme Anacleto</b>
         </sub>
       </a>
     </td>
   </tr>
 </table>
 
-## 😄 Seja um dos contribuidores<br>
-
-Quer fazer parte desse projeto? Clique [AQUI](CONTRIBUTING.md) e leia como contribuir.
-
 ## 📝 Licença
 
 Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
 
-[⬆ Voltar ao topo](#nome-do-projeto)<br>
+[⬆ Voltar ao topo](#DiscordDiceRoller)<br>
